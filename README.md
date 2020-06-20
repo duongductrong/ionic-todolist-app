@@ -1,4 +1,4 @@
-# Todo List - Mobile App Demo [React-Redux]
+# Todo List - Mobile App Demo [Ionic-React-Redux]
 
 ### Demo (Just demo, not using storage or database to save data)
 
