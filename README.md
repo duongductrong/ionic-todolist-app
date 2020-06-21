@@ -8,7 +8,7 @@
 
 _Note_: Recommend download CLI Ionic before download this source
 
-- **Step 1**: `git clone this-repository`
+- **Step 1**: `git clone https://github.com/duongductrong/ionic-todolist-app`
 - **Step 2**: Open this source and `npm install` to download node_modules
 - **Step 3**: Press `ionic serve` to run this app with default PORT `localhost:8100`.
 - **Finally**: Congratulation, this app running !!!!
